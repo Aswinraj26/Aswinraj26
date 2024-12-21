@@ -1,4 +1,4 @@
-# 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=Aswinraj26&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)# 💫 About Me:
 👋 Hi, I’m Aswin raj<br>👀 I’m interested in Artificial Intelligence<br>🌱 I’m currently learning Machine Learing<br>💞️ I’m looking to collaborate with friends
 
 
